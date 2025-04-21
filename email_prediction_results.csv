@@ -1,0 +1,3 @@
+email_text,email_version,hour,weekday,user_country,user_past_purchases,click_probability,predicted_click
+short_email,personalized,9,Saturday,US,3,0.0,0
+long_email,generic,14,Tuesday,FR,1,0.0,0
